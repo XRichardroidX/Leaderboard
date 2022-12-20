@@ -53,13 +53,13 @@ body {
 
   to {
     margin-left: 0%;
-    color: #d136f7eb;
+    color: #21f21eeb;
   }
 }
 
 .contact-link,
 .active {
-  color: #d136f7eb;
+  color: #21f21eeb;
 }
 
 .player-details {
@@ -84,7 +84,7 @@ button {
 }
 
 button:hover {
-  border: 2px solid #d136f7eb;
+  border: 2px solid #21f21eeb;
   opacity: 0.7;
 }
 

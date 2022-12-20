@@ -17,7 +17,6 @@ const refreshBtn = document.querySelector('.refresh-btn');
 const inputMsg = document.querySelector('.input-msg');
 
 renderNavigation();
-// setInterval(renderCurrentTime, 1000);
 setInterval(() => {
   renderCurrentTime();
 }, 1000);
