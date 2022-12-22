@@ -3,8 +3,8 @@ const createGame = async () => {
     method: 'POST',
     body: JSON.stringify({ name: 'my game' }),
     headers: {
-      'Content-type': 'application/json; Charset=UTF-8',
-    },
+      'Content-type': 'application/json; Charset=UTF-8'
+    }
   });
   return response.json();
 };
