@@ -83,6 +83,15 @@ button {
   font-size: 0.9rem;
 }
 
+.submit-score {
+  margin-left: 70%;
+  height: 2rem;
+  width: 30%;
+  background-color: #d3d3d3;
+  border: 1px solid #236dcf;
+  font-size: 0.9rem;
+}
+
 button:hover {
   border: 2px solid #21f21eeb;
   opacity: 0.7;
